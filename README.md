@@ -1,1 +1,1 @@
-# this a my first alx repo
+# this is my first alx repo
